@@ -39,3 +39,4 @@ function Drop() {
     line(this.x, this.y, this.x, this.y+this.len);
   }
 }
+//TestCode
